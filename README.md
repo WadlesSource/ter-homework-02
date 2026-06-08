@@ -13,4 +13,5 @@ Error while requesting API to create instance: client-request-id = 0b3d2391-37ae
 <img width="1913" height="993" alt="image" src="https://github.com/user-attachments/assets/c44bdc6c-5fdc-4ed8-8169-f76f52fbee90" />
 <img width="1915" height="1031" alt="image" src="https://github.com/user-attachments/assets/ffa20de8-e9b9-4f2c-97b2-6beb1078f9ca" />
 
+В задании 6, требуется закомментировать не используемые переменные проекта, к сожалению сраху удалил неиспользуемые переменные в коде.
 
